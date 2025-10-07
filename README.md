@@ -18,7 +18,7 @@ Kelas  : TI.24.A3
     </section>
 ```
 ### Output
-![gambar](Pict/OrderedList.png)
+![gambar](Pict/OrderedList.png)<br>
 2. Unordered List
 ```html
     <section id="unorder-list">
@@ -31,7 +31,7 @@ Kelas  : TI.24.A3
     </section>
 ```
 ### Output
-![gambar](Pict/UnorderedList.png)
+![gambar](Pict/UnorderedList.png)<br>
 3. Description List
 ```html
     <section id="desc-list">
@@ -49,7 +49,7 @@ Kelas  : TI.24.A3
     </section>
 ```
 ### Output
-![gambar](Pict/DescriptionList.png)
+![gambar](Pict/DescriptionList.png)<br>
 
 
 ## Tabel
