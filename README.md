@@ -17,6 +17,7 @@ Kelas  : TI.24.A3
         </ol>
     </section>
 ```
+![gambar](Pict/Ordered List.png)
 2. Unordered List
 ```html
     <section id="unorder-list">
@@ -28,6 +29,7 @@ Kelas  : TI.24.A3
         </ul>
     </section>
 ```
+![gambar](Pict/Unordered List.png)
 3. Description List
 ```html
     <section id="desc-list">
@@ -44,6 +46,7 @@ Kelas  : TI.24.A3
         </dl>
     </section>
 ```
+![gambar](Pict/DescriptionList.png)
 
 
 ## Tabel
@@ -73,6 +76,7 @@ Kelas  : TI.24.A3
         </tbody>
     </table>
 ```
+![gambar](Pict/Tabel.png)
 
 
 ## Form
@@ -107,6 +111,7 @@ Kelas  : TI.24.A3
         </fieldset>
     </form>
 ```
+![gambar](Pict/Form.png)
 1. Dropdown
 ```html
             <p>
