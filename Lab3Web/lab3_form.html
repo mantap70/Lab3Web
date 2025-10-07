@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="proses.php" method="post">
+        <fieldset>
+            <legend>Login</legend>
+            <p>
+                <label for="uname">Username</label>
+                <input type="text" id="uname" name="Username">
+            </p>
+            <p>
+                <label for="passwd">Password</label>
+                <input type="password" id="passwd" name="Password">
+            </p>
+            <p>
+                <label for="gndr">Gender</label>
+                <select name="gender" id="gender">
+                    <option value="Laki-Laki">Laki-Laki</option>
+                    <option value="Perempuan">Perempuan</option>
+                </select>
+            </p>
+            <p>
+                <label for="matkul">Mata Kuliah</label>
+                <input type="checkbox">RPL
+                <input type="checkbox">Pemrograman Web
+                <input type="checkbox">Pemrograman Mobile
+                <input type="checkbox">Pendidikan Agama
+                <input type="checkbox">OOP
+            </p>
+            <p><input type="submit" value="Login"></p>
+        </fieldset>
+    </form>
+</body>
+</html>
