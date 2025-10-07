@@ -6,7 +6,7 @@ Kelas  : TI.24.A3
 ```
 
 ## List
-1. Ordered List
+### 1. Ordered List
 ```html
     <section id="order-list">
         <h2>Ordered List</h2>
@@ -19,7 +19,7 @@ Kelas  : TI.24.A3
 ```
 ### Output
 ![gambar](Pict/OrderedList.png)<br>
-2. Unordered List
+### 2. Unordered List
 ```html
     <section id="unorder-list">
         <h2>Unordered List</h2>
@@ -32,7 +32,7 @@ Kelas  : TI.24.A3
 ```
 ### Output
 ![gambar](Pict/UnorderedList.png)<br>
-3. Description List
+### 3. Description List
 ```html
     <section id="desc-list">
         <h2>Description List</h2>
